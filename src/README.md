@@ -53,5 +53,6 @@ $ yarn dev ou npm run dev
 As seguintes tecnologias foram usadas na construção da API:
 
 - [REACT.JS](https://pt-br.reactjs.org/)
+- [TYPESCRIPT](https://www.typescriptlang.org/)
 - [STYLED COMPONENTS](https://styled-components.com/)
 - [MATERIAL-UI](https://mui.com/pt/)
