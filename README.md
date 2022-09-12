@@ -1,8 +1,4 @@
-# PIRESCORD
-
-<h1 align="center">
-    <img alt="Pirescord" title="Pokedex" src="./src/assets/pirescord.png" />
-</h1>
+# PAGAMENTOS
 
 ## Descrição do Projeto
 O projeto é o sistema de gerenciamento de devedores, fazendo a relação das dívidas com as pessoas existentes no JSONPlaceholder.
